@@ -50,7 +50,15 @@ print(f"Efficiency is : {eff*100} %")
 print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ```
+## OUTPUT
+![image](https://github.com/user-attachments/assets/58527e36-3940-462e-83ea-6479cc66b775)
 ## Calculation
+![WhatsApp Image 2025-03-30 at 13 43 12_b2c08247](https://github.com/user-attachments/assets/f53f7a58-b1e3-411e-80b7-d751de6b4dc2)
+![WhatsApp Image 2025-03-30 at 13 43 12_78998309](https://github.com/user-attachments/assets/e1b082cc-41c1-4f00-abc4-e340af423156)
+![WhatsApp Image 2025-03-30 at 13 43 12_e1473b4f](https://github.com/user-attachments/assets/d078a633-56dd-44c0-b113-f49e6c369949)
+
+
+
 
 ## Results
 For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25
